@@ -5,7 +5,7 @@ require __DIR__ . '/vendor/autoload.php';
 /**
  * Plugin Name:       Author bio
  * Description:       This is a test author bio plugin.
- * Version:           1.2.1
+ * Version:           1.2.2
  * Requires at least: 5.2
  * Requires PHP:      7.2
  * Author:            Md Mehedi Hasan
